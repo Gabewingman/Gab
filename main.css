@@ -1,1 +1,19 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+.Schools{
+    text-align: center;
+    position: relative;
+    display: inline-block;
+    padding-left: 30%;
+    padding-top: 5px;
+}
+
+.name{
+    padding-left: 37%;
+}
